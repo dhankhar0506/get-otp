@@ -1,0 +1,38 @@
+.items{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: auto;
+    /* border: 2px solid black; */
+    text-align: center;
+    width: 500px;
+    margin-top: 200px;
+    border-radius: 15px;
+    background-color: rgb(0, 0, 0);
+    color: aqua;
+    background-image: linear-gradient(rgb(131, 202, 250), rgb(33, 59, 66));
+
+}
+.items input{
+    padding: 10px;
+    font-weight: 700;
+    text-align: center;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    background-color: rgb(253, 248, 248);
+    background-image: linear-gradient(rgb(245, 243, 243), rgb(243, 118, 118));
+}
+.items button{
+    width: 100px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: antiquewhite;
+    background-image: linear-gradient(rgb(230, 81, 81), rgb(204, 201, 52));
+   
+    /* background-color: rgb(55, 51, 63); */
+    
+
+}
