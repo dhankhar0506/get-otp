@@ -1,0 +1,25 @@
+.content{
+    background-color: rgb(198, 224, 224);
+    border: 2px solid yellow;
+    
+    text-align: center;
+    margin: 0px 100px;
+
+    
+}
+.content label {
+    padding: 20px;
+    margin: 0px 20px;
+    
+}
+input{
+    /* align-items: center; */
+    text-align: center;
+    
+}
+label{
+    text-align: center;
+    font-weight: 700;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
